@@ -1,3 +1,4 @@
+![Animals with Party Hats Email Header](https://user-images.githubusercontent.com/71865317/117759987-06d0bb00-b1e2-11eb-829d-028ea4564feb.png)
 ### Hi there 👋
 
 <!--
