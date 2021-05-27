@@ -1,6 +1,12 @@
 ![Animals with Party Hats Email Header](https://user-images.githubusercontent.com/71865317/117759987-06d0bb00-b1e2-11eb-829d-028ea4564feb.png)
 ### Hi there 👋
 
+- 🔭 I’m currently working on my past projects: Pandoraful, My Portfolio, and Shelf Life
+- 🌱 I’m currently learning how to use hooks in React
+- 📫 How to reach me: www.linkedin/in/phong-lo or phonglo724@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I collect minion funko pops!
+
 <!--
 **phonglo724/phonglo724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
