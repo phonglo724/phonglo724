@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my past projects: Pandoraful, My Portfolio, and Shelf Life
 - 🌱 I’m currently learning how to use hooks in React
-- 📫 How to reach me: www.linkedin/in/phong-lo or phonglo724@gmail.com
+- 📫 How to reach me: www.linkedin.com/in/phong-lo or phonglo724@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I collect minion funko pops!
 
