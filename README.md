@@ -9,8 +9,6 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I collect minion funko pops!
 
-<br/>
-
 ### Tech Stack:
 ![React](https://img.shields.io/badge/React-38B2AC?style=for-the-badge&logo=react&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material--UI-blue?style=for-the-badge&logo=material-ui&logoColor=white)
