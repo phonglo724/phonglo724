@@ -13,10 +13,10 @@
 
 ### Tech Stack:
 ![React](https://img.shields.io/badge/React-38B2AC?style=for-the-badge&logo=react&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-38B2AC?style=for-the-badge&logo=material-ui&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-38B2AC?style=for-the-badge&logo=ruby&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-blue?style=for-the-badge&logo=material-ui&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-red?style=for-the-badge&logo=ruby&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?logo=javascript&logoColor=ffd648&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/-HTML5-purple?logo=html5&logoColor=white&style=for-the-badge)
 
 <!--
 **phonglo724/phonglo724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
