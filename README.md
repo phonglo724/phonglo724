@@ -3,8 +3,8 @@
 
 ### My name is Phong and welcome to my GitHub!
 
-- 🔭 I’m currently working on my past projects: My Portfolio and Shelf Life
-- 🌱 I’m currently learning how to use hooks in React and soon will jump in to learn Redux
+- 🔭 I’m currently working on my past project: Shelf Life
+- 🌱 I’m currently learning how to use hooks in React and interested to learn Redux soon
 - 📫 How to reach me: www.linkedin.com/in/phong-lo or phonglo724@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I collect minion funko pops!
