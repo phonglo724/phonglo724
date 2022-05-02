@@ -3,9 +3,8 @@
 
 ### My name is Phong and welcome to my GitHub!
 
-- 🔭 I’m currently working on my past project: Shelf Life
-- 🌱 I’m currently learning more JavaScript, along with, hooks and Redux
-- 👯 I’m looking to collaborate on hackathon projects
+- 🌱 I’m currently learning to broaden my skills in JavaScript and ServiceNow
+- 👯 I’m looking to grow my skills in JavaScript and ServiceNow
 - 📫 How to reach me: www.linkedin.com/in/phong-lo or phonglo724@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I collect minion funko pops!
